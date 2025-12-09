@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VK dz2</string>
+    <string name="error_text">Повторить</string>
+    <string name="api_key">uRV3HbZG89DQDcHzjKFCf5VDDWmipeSV</string>
 </resources>
